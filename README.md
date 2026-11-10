@@ -1,7 +1,9 @@
 # Hi, I'm Abbas Awarkeh 👋
 
 **Data Scientist / AI Engineer** based in Paris — NLP, generative AI (LLM, RAG) and speech recognition (ASR).
+
 Master's in NLP & AI (Université de Lorraine, IDMC) · AI engineering internship at **Inria Multispeech**.
+
 🔎 **Open to work** in France (Data Science / AI / NLP).
 
 ### Featured projects
@@ -15,11 +17,15 @@ Master's in NLP & AI (Université de Lorraine, IDMC) · AI engineering internshi
 | [**yago-analogy-classification**](https://github.com/abbas-awarkeh/yago-analogy-classification) | Analogy classification on the YAGO4 knowledge graph |
 
 ### Skills
+
 **NLP & GenAI:** LLMs, RAG, embeddings, reranking, LLM evaluation, NER, relation extraction, BERT fine-tuning
+
 **Speech:** ASR, Whisper
+
 **Tools:** Python, PyTorch, Hugging Face, FastAPI, Qdrant, Docker, GitHub Actions, Google Cloud Run
 
 ### Languages
+
 French (C1) · English (B2) · Arabic (native)
 
 📫 [LinkedIn](https://www.linkedin.com/in/abbas-awarkeh-969756249/)
